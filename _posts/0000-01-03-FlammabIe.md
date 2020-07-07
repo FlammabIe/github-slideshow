@@ -1,5 +1,5 @@
 ---
-Layout: slide
+layout: slide
 title: "Welcome to our third slide!"
 ---
 *nicer meme*
